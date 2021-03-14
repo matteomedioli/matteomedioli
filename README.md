@@ -16,13 +16,11 @@
 <a href="https://mathworks.com/products/matlab.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="tensorflow" width="40" height="40"/></a> 
 </p>
 <p>
-<a href="https://github.com/anuraghazra/github-readme-statst">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteomedioli&layout=compact&theme=tokyonight" />
-</a>
-</p>
-
-<p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=matteomedioli&show_icons=true&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-statst">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteomedioli&layout=compact&theme=tokyonight" />
 </a>
 </p>
