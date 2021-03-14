@@ -15,8 +15,11 @@
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> 
 <a href="https://mathworks.com/products/matlab.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="tensorflow" width="40" height="40"/></a> 
 </p>
-<p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteomedioli&theme=tokyonight&layout=compact" />
+</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=matteomedioli&show_icons=true&theme=tokyonight" />
 </a>
+
 </p>
