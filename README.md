@@ -3,7 +3,7 @@
 
 [![follow](https://img.shields.io/github/followers/matteomedioli?style=social)](https://github.com/matteomedioli) [![Linkedin: guillem](https://img.shields.io/badge/-matteomedioli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matteo-medioli-72806a110/)](https://www.linkedin.com/in/matteo-medioli-72806a110/)
 
-<samp>Master's student in Artificial Intelligence at the University of Pisa. I'm working on my thesis on Deep Graph Neural Networks.</samp>
+<samp>Master's student in Artificial Intelligence at the University of Pisa. I'm working on my thesis on Deep Graph Neural Networks and NLP.</samp>
 
 <h3 align="left">Languages and Tools:</h3>
 
