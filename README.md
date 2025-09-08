@@ -3,7 +3,7 @@
 
 [![follow](https://img.shields.io/github/followers/matteomedioli?style=social)](https://github.com/matteomedioli) [![Linkedin: guillem](https://img.shields.io/badge/-matteomedioli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matteo-medioli-72806a110/)](https://www.linkedin.com/in/matteo-medioli-72806a110/)
 
-<samp>Kicking off my coding adventure in 2010, I'm trying to help computers understand what people are saying. My focus includes Transformers architectures, LLMs, PyTorch, Kubernetes, and Google Cloud, along with practical skills in C++, C#, SQL Server, and React. Beyond computers, love to ski and play drums.</samp>
+<samp>Kicking off my coding adventure in 2010, my focus includes Transformers architectures, LLMs, PyTorch, Kubernetes, and Google Cloud, along with practical skills in C++, C#, SQL Server, and React. Beyond computers, love to ski and play drums.</samp>
 
 <h3 align="left">Languages and Tools:</h3>
 
