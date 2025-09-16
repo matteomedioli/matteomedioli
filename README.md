@@ -3,7 +3,10 @@
 
 [![follow](https://img.shields.io/github/followers/matteomedioli?style=social)](https://github.com/matteomedioli) [![Linkedin: guillem](https://img.shields.io/badge/-matteomedioli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matteo-medioli-72806a110/)](https://www.linkedin.com/in/matteo-medioli-72806a110/)
 
-<samp>Kicking off my coding adventure in 2010, my focus includes Transformers architectures, LLMs, PyTorch, Kubernetes, and Google Cloud, along with practical skills in C++, C#, SQL Server, and React. Beyond computers, love to ski and play drums.</samp>
+<samp>Machine Learning Engineer focused on NLP and Applied AI. 
+At Neo4j, I work on combining large language models with graph technology. Experienced across the ML lifecycle, with a focus on LLMs, MLOps and backend development for data pipelines and large-scale processing. 
+My toolkit includes Python, C++, C#, SQL, Docker, Kubernetes, and GCP. 
+Outside of work, I enjoy snowboarding, climbing and playing drums.</samp>
 
 <h3 align="left">Languages and Tools:</h3>
 
