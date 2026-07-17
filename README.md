@@ -13,7 +13,10 @@ Outside of work, I enjoy snowboarding, climbing and playing drums.</samp>
 **Languages**
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,go,rust,cpp,cs,bash,matlab&theme=dark" alt="Python, Java, Go, Rust, C++, C#, Bash, MATLAB"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,java,go,rust,cpp,cs,bash,matlab&theme=dark" alt="Python, TypeScript, Java, Go, Rust, C++, C#, Bash, MATLAB"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Cypher-Graph%20Query%20Language-018bff?style=for-the-badge&logo=neo4j&logoColor=white&labelColor=1a1b27" alt="Cypher"/>
 </p>
 
 **ML & AI**
