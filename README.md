@@ -13,39 +13,37 @@ Outside of work, I enjoy snowboarding, climbing and playing drums.</samp>
 **Languages**
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,cs,matlab,bash&theme=dark" alt="Python, C++, C#, MATLAB, Bash"/>
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,go,rust,cpp,cs,bash,matlab&theme=dark" alt="Python, Java, Go, Rust, C++, C#, Bash, MATLAB"/>
 </p>
 
 **ML & AI**
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="PyTorch, TensorFlow, scikit-learn, OpenCV"/>
-  </a>
-  <a href="https://huggingface.co">
-    <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Transformers-FFD21E?style=for-the-badge&labelColor=1a1b27" alt="Hugging Face"/>
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn,opencv,huggingface&theme=dark" alt="PyTorch, TensorFlow, scikit-learn, OpenCV, Hugging Face"/>
 </p>
 
-**Data & Infra**
+**LLM & GenAI**
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,postgres,linux,git&theme=dark" alt="Docker, Kubernetes, GCP, SQL, Linux, Git"/>
-  </a>
-  <a href="https://neo4j.com">
-    <img src="https://img.shields.io/badge/Neo4j-Graph%20DB-018bff?style=for-the-badge&logo=neo4j&logoColor=white&labelColor=1a1b27" alt="Neo4j"/>
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,gemini,ollama,langchain,pydantic,neo4j&theme=dark" alt="Anthropic Claude, Gemini, Ollama, LangChain, PydanticAI, Neo4j"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/vLLM-30a3ea?style=for-the-badge&logo=vllm&logoColor=white&labelColor=1a1b27" alt="vLLM"/>
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=1a1b27" alt="TensorRT"/>
+  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1a1b27" alt="Vertex AI"/>
+  <img src="https://img.shields.io/badge/🦞%20OpenClaw-FF4500?style=for-the-badge&labelColor=1a1b27" alt="OpenClaw"/>
+</p>
+
+**Cloud & Infra**
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,argocd,gcp,aws,azure,postgres,linux,git&theme=dark" alt="Docker, Kubernetes, Argo Workflows, GCP, AWS, Azure, PostgreSQL, Linux, Git"/>
 </p>
 
 **Web & Tools**
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,dotnet,flask,fastapi&theme=dark" alt="React, .NET, Flask, FastAPI"/>
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,dotnet,flask,fastapi&theme=dark" alt="React, .NET, Flask, FastAPI"/>
 </p>
 
 ## 📊 GitHub Dashboard
