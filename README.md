@@ -9,7 +9,6 @@ My toolkit includes Python, C++, C#, SQL, Docker, Kubernetes, and GCP.
 Outside of work, I enjoy snowboarding, climbing and playing drums.</samp>
 
 <br/>
-<br/>
 
 ## 🛠️ Skills
 
