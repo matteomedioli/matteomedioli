@@ -11,35 +11,6 @@ Outside of work, I enjoy snowboarding, climbing and playing drums.</samp>
 <br/>
 <br/>
 
-## 🔭 What I'm Working On
-
-**GenAI @ Neo4j** — my main open-source work is on the official Neo4j GraphRAG library: LLM provider integrations (Anthropic, Gemini, Vertex AI), knowledge-graph construction pipelines and graph-grounded retrieval.
-
-<p align="center">
-  <a href="https://github.com/neo4j/neo4j-graphrag-python">
-    <img src="https://github-readme-stats.zohan.tech/api/pin/?username=neo4j&repo=neo4j-graphrag-python&theme=tokyonight&hide_border=true&show_owner=true" alt="neo4j/neo4j-graphrag-python"/>
-  </a>
-</p>
-
-**Personal projects & research**
-
-<p align="center">
-  <a href="https://github.com/matteomedioli/Hyper-Alpha-Arena">
-    <img src="https://github-readme-stats.zohan.tech/api/pin/?username=matteomedioli&repo=Hyper-Alpha-Arena&theme=tokyonight&hide_border=true" alt="Hyper-Alpha-Arena"/>
-  </a>
-  <a href="https://github.com/matteomedioli/BERT-KG">
-    <img src="https://github-readme-stats.zohan.tech/api/pin/?username=matteomedioli&repo=BERT-KG&theme=tokyonight&hide_border=true" alt="BERT-KG"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/matteomedioli/AndroidObjectDetection">
-    <img src="https://github-readme-stats.zohan.tech/api/pin/?username=matteomedioli&repo=AndroidObjectDetection&theme=tokyonight&hide_border=true" alt="AndroidObjectDetection"/>
-  </a>
-  <a href="https://github.com/matteomedioli/language-classifier">
-    <img src="https://github-readme-stats.zohan.tech/api/pin/?username=matteomedioli&repo=language-classifier&theme=tokyonight&hide_border=true" alt="language-classifier"/>
-  </a>
-</p>
-
 ## 🛠️ Skills
 
 **Languages**
