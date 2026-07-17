@@ -13,15 +13,15 @@ Outside of work, I enjoy snowboarding, climbing and playing drums.</samp>
 
 ## 🔭 What I'm Working On
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Neo4j-GenAI-018bff?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j GenAI"/>
-  <img src="https://img.shields.io/badge/LLMs-%2B%20Knowledge%20Graphs-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs + Knowledge Graphs"/>
-  <img src="https://img.shields.io/badge/GraphRAG-Retrieval-00C853?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphRAG"/>
+**GenAI @ Neo4j** — my main open-source work is on the official Neo4j GraphRAG library: LLM provider integrations (Anthropic, Gemini, Vertex AI), knowledge-graph construction pipelines and graph-grounded retrieval.
+
+<p align="center">
+  <a href="https://github.com/neo4j/neo4j-graphrag-python">
+    <img src="https://github-readme-stats.zohan.tech/api/pin/?username=neo4j&repo=neo4j-graphrag-python&theme=tokyonight&hide_border=true&show_owner=true" alt="neo4j/neo4j-graphrag-python"/>
+  </a>
 </p>
 
-- 🧠 **GenAI @ Neo4j** — building systems that combine **large language models with knowledge graphs**: entity & relation extraction, graph-grounded retrieval (GraphRAG) and LLM-powered graph construction pipelines.
-- ⚙️ **MLOps & backend at scale** — data pipelines and large-scale processing on **Kubernetes / GCP**.
-- 🤖 **Side quests** — autonomous AI agents & experiments, like [Hyper-Alpha-Arena](https://github.com/matteomedioli/Hyper-Alpha-Arena), an autonomous AI trading tool for the Hyperliquid DEX.
+**Personal projects & research**
 
 <p align="center">
   <a href="https://github.com/matteomedioli/Hyper-Alpha-Arena">
@@ -92,7 +92,7 @@ Outside of work, I enjoy snowboarding, climbing and playing drums.</samp>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=matteomedioli&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.vercel.app/?user=matteomedioli&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
